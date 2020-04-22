@@ -1,0 +1,14 @@
+table.revenge th {
+	padding-right: 10px;
+}
+table.revenge th {
+	text-align: left;
+}
+
+table.revenge td {
+	text-align: center;
+}
+
+table.revenge tbody tr:nth-child(odd) {
+	background: #ccc;
+}
